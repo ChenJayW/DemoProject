@@ -1,1 +1,1 @@
-My process of learning c++
+this process learn from Cherno "c++" 

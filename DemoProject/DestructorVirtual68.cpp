@@ -42,7 +42,7 @@ namespace jay68 {
 
 
 
-int main() {
+int main68() {
 
 	using namespace jay68;
 

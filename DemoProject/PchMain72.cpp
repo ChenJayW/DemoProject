@@ -1,4 +1,4 @@
-#include "pch72.h"
+//#include "pch72.h"
 
 /*
 	ÃüÁîĞĞ£º g++ -ftime-report  pch72.h
